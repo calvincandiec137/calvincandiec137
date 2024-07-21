@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C, DSA, Python & Frontend<br>👯 I’m looking to collaborate on Frontend, C & DSA<br>🌱 I’m currently learning data science in python, C++ & backend<br>💬 Ask me about C, python, DSA & Frontend
+🔭 I’m currently working on C/C++, Java, DSA, Python & Frontend<br>👯 I’m looking to collaborate on Frontend, C/C++, Java & Data Science <br>🌱 I’m currently learning data science in python, C++ & backend
 
 
 ## 🌐 Socials:
